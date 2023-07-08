@@ -4,7 +4,7 @@ This project focuses on predicting breast cancer using Machine Learning techniqu
 
 ## Features
 
-- Breast cancer prediction using a supervised learning classification algorithm
+- Breast cancer prediction using various supervised learning classification algorithms
 - Website deployment on Heroku
 - Utilization of HTML5, CSS3, JS, Django, and ML frameworks such as scikit-learn
 
@@ -32,7 +32,7 @@ The project consists of the following components:
 
 To use this project:
 
-1. Clone the repository: `git clone https://github.com/AI-breast-cancer.git`
+1. Clone the repository: `git clone https://github.com/jayanth9676/AI-breast-cancer.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Preprocess the dataset and train the machine learning model.
 4. Deploy the web application using the provided HTML, CSS, and JavaScript files.
@@ -41,10 +41,6 @@ To use this project:
 ## Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
